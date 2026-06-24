@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "plan": "Basic",
+    "price": 19,
+    "duration": "month",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "Free Wi-Fi",
+      "1 Group Class per week"
+    ],
+    "popular": false
+  },
+  {
+    "id": 2,
+    "plan": "Standard",
+    "price": 39,
+    "duration": "month",
+    "description": "Ideal for regular gym members.",
+    "features": [
+      "All Basic features",
+      "Unlimited Group Classes",
+      "Personal fitness assessment",
+      "Access to cardio zone",
+      "Nutrition guidance"
+    ],
+    "popular": true
+  },
+  {
+    "id": 3,
+    "plan": "Premium",
+    "price": 69,
+    "duration": "month",
+    "description": "Best choice for serious fitness enthusiasts.",
+    "features": [
+      "All Standard features",
+      "Dedicated personal trainer",
+      "24/7 Gym Access",
+      "Customized workout plan",
+      "Diet consultation",
+      "Spa & Sauna access"
+    ],
+    "popular": false
+  }
+]
