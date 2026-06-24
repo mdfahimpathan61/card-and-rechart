@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Sharma",
+    "physics": 85,
+    "chemistry": 78,
+    "math": 92
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "physics": 90,
+    "chemistry": 88,
+    "math": 84
+  },
+  {
+    "id": 3,
+    "name": "Liam Johnson",
+    "physics": 76,
+    "chemistry": 81,
+    "math": 79
+  },
+  {
+    "id": 4,
+    "name": "Sophia Brown",
+    "physics": 94,
+    "chemistry": 91,
+    "math": 96
+  },
+  {
+    "id": 5,
+    "name": "Noah Davis",
+    "physics": 68,
+    "chemistry": 74,
+    "math": 72
+  },
+  {
+    "id": 6,
+    "name": "Olivia Miller",
+    "physics": 88,
+    "chemistry": 85,
+    "math": 90
+  },
+  {
+    "id": 7,
+    "name": "William Taylor",
+    "physics": 80,
+    "chemistry": 77,
+    "math": 83
+  },
+  {
+    "id": 8,
+    "name": "Mia Anderson",
+    "physics": 92,
+    "chemistry": 89,
+    "math": 95
+  }
+]
